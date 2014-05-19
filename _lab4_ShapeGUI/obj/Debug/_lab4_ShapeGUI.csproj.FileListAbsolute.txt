@@ -1,0 +1,9 @@
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab4_ShapeGUI\bin\Debug\_lab4_ShapeGUI.exe.config
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab4_ShapeGUI\bin\Debug\_lab4_ShapeGUI.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab4_ShapeGUI\bin\Debug\_lab4_ShapeGUI.pdb
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab4_ShapeGUI\obj\Debug\_lab4_ShapeGUI.csprojResolveAssemblyReference.cache
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab4_ShapeGUI\obj\Debug\_lab4_ShapeGUI.Form1.resources
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab4_ShapeGUI\obj\Debug\_lab4_ShapeGUI.Properties.Resources.resources
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab4_ShapeGUI\obj\Debug\_lab4_ShapeGUI.csproj.GenerateResource.Cache
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab4_ShapeGUI\obj\Debug\_lab4_ShapeGUI.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab4_ShapeGUI\obj\Debug\_lab4_ShapeGUI.pdb

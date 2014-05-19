@@ -1,0 +1,12 @@
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\TextFileGUI\bin\Debug\TextFileGUI.exe.config
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\TextFileGUI\bin\Debug\TextFileGUI.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\TextFileGUI\bin\Debug\TextFileGUI.pdb
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.csprojResolveAssemblyReference.cache
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.Form1.resources
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.Properties.Resources.resources
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.csproj.GenerateResource.Cache
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.pdb
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\bin\Debug\TextFileGUI.exe.config
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.exe
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.pdb

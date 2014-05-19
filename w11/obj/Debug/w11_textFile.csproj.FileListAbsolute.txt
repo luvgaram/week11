@@ -1,0 +1,6 @@
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\w11\bin\Debug\w11.exe.config
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\w11\bin\Debug\w11.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\w11\bin\Debug\w11.pdb
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\w11\obj\Debug\w11_textFile.csprojResolveAssemblyReference.cache
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\w11\obj\Debug\w11.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\w11\obj\Debug\w11.pdb

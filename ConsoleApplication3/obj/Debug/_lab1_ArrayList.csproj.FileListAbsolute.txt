@@ -1,0 +1,12 @@
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\ConsoleApplication3\obj\Debug\_lab1_ArrayList.csprojResolveAssemblyReference.cache
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication3\obj\Debug\_lab1_ArrayList.csprojResolveAssemblyReference.cache
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

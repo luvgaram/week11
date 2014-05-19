@@ -1,0 +1,5 @@
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

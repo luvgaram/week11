@@ -1,0 +1,9 @@
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\bin\Debug\TextFileGUI.exe.config
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.exe
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.pdb
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\bin\Debug\TextFileGUI.exe
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\bin\Debug\TextFileGUI.pdb
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\_lab2_TextFileGUI.csprojResolveAssemblyReference.cache
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.Form1.resources
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\TextFileGUI.Properties.Resources.resources
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\TextFileGUI\obj\Debug\_lab2_TextFileGUI.csproj.GenerateResource.Cache

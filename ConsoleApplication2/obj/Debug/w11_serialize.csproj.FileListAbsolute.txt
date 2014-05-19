@@ -1,0 +1,6 @@
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication2\obj\Debug\w11_serialize.csprojResolveAssemblyReference.cache
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

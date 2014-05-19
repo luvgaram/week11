@@ -1,0 +1,20 @@
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\bin\Debug\_lab3_BinaryFileGUI.exe.config
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\bin\Debug\_lab3_BinaryFileGUI.exe
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\bin\Debug\_lab3_BinaryFileGUI.pdb
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.csprojResolveAssemblyReference.cache
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.Form1.resources
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.Properties.Resources.resources
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.csproj.GenerateResource.Cache
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.exe
+F:\Down\My Dropbox\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.pdb
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\bin\Debug\_lab3_BinaryFileGUI.exe.config
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.pdb
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\bin\Debug\_lab3_BinaryFileGUI.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\bin\Debug\_lab3_BinaryFileGUI.pdb
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.csprojResolveAssemblyReference.cache
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.Form1.resources
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.Properties.Resources.resources
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\obj\Debug\_lab3_BinaryFileGUI.csproj.GenerateResource.Cache
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\bin\Debug\ConsoleApplication3.exe
+C:\Users\Garam\Dropbox\2014_1\Projects\w11\_lab3_BinaryFileGUI\bin\Debug\ConsoleApplication3.pdb
