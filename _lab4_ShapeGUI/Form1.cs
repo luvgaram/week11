@@ -25,7 +25,7 @@ namespace _lab4_ShapeGUI
 
         }
 
-        private ArrayList rectangles = new ArrayList();
+        private ArrayList shapes = new ArrayList();
 
         private void Form1_DoubleClick(object sender, EventArgs e)
         {
@@ -38,23 +38,23 @@ namespace _lab4_ShapeGUI
             Brush Color = Brushes.SkyBlue;
 
             Rectangle rectangle = new Rectangle(left, top, right, bottom);
-            Square square = new Square(left, top, right, Color);
-            Ellipse ellipse = new Ellipse(left, top, right, Color);
-            Triangle triangle = new Triangle(left, top, right, Color);
+            Square square = new Square(left, top, right, bottom);
+            Ellipse ellipse = new Ellipse(left, top, right, bottom);
+            Triangle triangle = new Triangle(left, top, right, bottom);
 
             switch (type)
             {
                 case 1:
-                    rectangles.Add(square);
+                    shapes.Add(square);
                     break;
                 case 2:
-                    rectangles.Add(rectangle);
+                    shapes.Add(rectangle);
                     break;
                 case 3:
-                    rectangles.Add(ellipse);
+                    shapes.Add(ellipse);
                     break;
                 case 4:
-                    rectangles.Add(triangle);
+                    shapes.Add(triangle);
                     break;
             }
             Form1_Paint(null, null);
@@ -64,9 +64,9 @@ namespace _lab4_ShapeGUI
         {
             using (Graphics g = this.CreateGraphics())
             {
-                foreach (Rectangle rectangle in rectangles)
+                foreach (Shape shape in shapes)
                 {
-                    rectangle.Show(g);
+                    shape.Show(g);
                 }
             }
         }
@@ -84,9 +84,9 @@ namespace _lab4_ShapeGUI
                 rectangls = (ArrayList)deserializer.Deserialize(rs); // 역직렬화
                 using (Graphics g = this.CreateGraphics())
                 {
-                    foreach (Rectangle rectangle in rectangls)
+                    foreach (Shape shape in rectangls)
                     {
-                        rectangle.Show(g);
+                        shape.Show(g);
                     }
                 }
                 rs.Close();
@@ -103,7 +103,7 @@ namespace _lab4_ShapeGUI
                BinaryFormatter serializer = new BinaryFormatter();
 
                ArrayList rectangls = new ArrayList();
-               serializer.Serialize(rs, rectangles);
+               serializer.Serialize(rs, shapes);
                rs.Close();
            }
          }
@@ -114,103 +114,5 @@ namespace _lab4_ShapeGUI
         }
     }
 
-
-    [Serializable] // attribute
-    class Rectangle
-    {
-        protected Point LeftTop;
-        protected Point RightBottom;
-
-
-        public Rectangle(int Left, int Top, int Right, int Bottom)
-        {
-            this.LeftTop = new Point(Left, Top);
-            this.RightBottom = new Point(Right, Bottom);
-        }
-
-        public virtual void Show(Graphics g)
-        {
-            g.FillRectangle(Brushes.SkyBlue,
-                LeftTop.X, LeftTop.Y,
-                RightBottom.X - LeftTop.X,
-                RightBottom.Y - LeftTop.Y);
-
-            g.DrawRectangle(Pens.Black,
-                LeftTop.X, LeftTop.Y,
-                RightBottom.X - LeftTop.X,
-                RightBottom.Y - LeftTop.Y);
-
-        }
-    }
-
-    [Serializable] // attribute
-    class Square : Rectangle
-    {
-        private Brush Color;
-
-        public Square(int Left, int Top, int Width, Brush Color)
-            : base(Left, Top, Left + Width, Top + Width)
-        {
-            this.Color = Color;
-        }
-
-        public override void Show(Graphics g)
-        {
-            g.FillRectangle(Color,
-                LeftTop.X, LeftTop.Y,
-                RightBottom.X - LeftTop.X,
-                RightBottom.Y - LeftTop.Y);
-
-            g.DrawRectangle(Pens.Black,
-                LeftTop.X, LeftTop.Y,
-                RightBottom.X - LeftTop.X,
-                RightBottom.Y - LeftTop.Y);
-        }
-    }
-
-    [Serializable] // attribute
-    class Triangle : Rectangle
-    {
-        private Brush Color;
-
-        public Triangle(int Left, int Top, int Width, Brush Color)
-            : base(Left, Top, Left + Width, Top + Width)
-        {
-            this.Color = Color;
-
-        }
-
-        public override void Show(Graphics g)
-        {
-            Point[] pts = new Point[] { new Point((LeftTop.X + RightBottom.Y) / 2, LeftTop.X), new Point(LeftTop.X, RightBottom.Y), new Point(RightBottom.Y, RightBottom.X) };
-            g.FillPolygon(Color, pts);
-            g.DrawPolygon(Pens.Black, pts);
-        }
-    }
-
-    [Serializable] // attribute
-    class Ellipse : Rectangle
-    {
-        private Brush Color;
-
-        public Ellipse(int Left, int Top, int Width, Brush Color)
-            : base(Left, Top, Left + Width, Top + Width)
-        {
-            this.Color = Color;
-        }
-
-        public override void Show(Graphics g)
-        {
-            g.FillEllipse(Brushes.SkyBlue,
-                LeftTop.X, LeftTop.Y,
-                RightBottom.X - LeftTop.X,
-                RightBottom.Y - LeftTop.Y);
-
-            g.DrawEllipse(Pens.Black,
-                LeftTop.X, LeftTop.Y,
-                RightBottom.X - LeftTop.X,
-                RightBottom.Y - LeftTop.Y);
-
-        }
-    }
+   
 }
